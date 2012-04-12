@@ -355,7 +355,7 @@
             <HEIGHT>10.000000</HEIGHT>
             <DISPLAY>2</DISPLAY>
             <STEPS>0</STEPS>
-            <VALUE>1</VALUE>
+            <VALUE>0</VALUE>
         </OBJECT>
         <OBJECT>
             <ID>41</ID>
@@ -520,7 +520,7 @@
             <HEIGHT>12.000000</HEIGHT>
             <DISPLAY>2</DISPLAY>
             <STEPS>0</STEPS>
-            <VALUE>0</VALUE>
+            <VALUE>1</VALUE>
         </OBJECT>
         <OBJECT>
             <ID>25</ID>
